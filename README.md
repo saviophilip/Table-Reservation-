@@ -2,9 +2,8 @@
 
 ## Programmed by :
 
-1. Savio Philip (22112333):
-2. Mathews Joe (22112348):
-
+1. Savio Philip (22112333):https://github.com/saviophilip
+2. Mathews Joe (22112348):https://github.com/mathewsjoe
 ## Description 
 
 The project allows users to register, login, select a restaurant, make a reservation, and cancel a reservation. It handles user authentication, reservation availability, and storage of user credentials and reservation details in CSV files.
@@ -42,17 +41,17 @@ The project allows users to register, login, select a restaurant, make a reserva
 2. Run the application by executing a certain code in your terminal:
    code - python restaurant_reservation.py
 3. certain options will be presented to the user and he/she should choose the option
-   (i) Option 1: Register/Login
+(i) Option 1: Register/Login
        * If you already have an account, choose "yes" to login.
        * If you don't have an account, choose "no" to register and create a new account.
-   (ii) Option 2: Make a Reservation
+(ii) Option 2: Make a Reservation
        * Select a restaurant from the list.
        * Enter the reservation details such as date, time, name, and number of people.
        * after this is done you will get the confirmation.
-   (iii) Option 3: Cancellation of the Reservation
+(iii) Option 3: Cancellation of the Reservation
        * Enter the reservation ID to cancel the reservation.
        * Once this is done the user will get confirmation on the cancellation made.
-   (iv) Option 4: Exit
+(iv) Option 4: Exit
        * Choose this option to exit the application.
 
 ## Sample Output 
